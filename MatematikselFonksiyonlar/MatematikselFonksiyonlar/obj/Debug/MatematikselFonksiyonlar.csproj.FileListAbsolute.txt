@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\bin\Debug\MatematikselFonksiyonlar.exe.config
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\bin\Debug\MatematikselFonksiyonlar.exe
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\bin\Debug\MatematikselFonksiyonlar.pdb
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.Giris.resources
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.Anasayfa.resources
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.Properties.Resources.resources
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.exe
+C:\Users\asus\Desktop\MatematikselFonksiyonlar\MatematikselFonksiyonlar\obj\Debug\MatematikselFonksiyonlar.pdb
